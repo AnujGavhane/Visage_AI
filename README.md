@@ -1,4 +1,4 @@
-# PBL4-SY-SEM4
+# Visage AI
 'Visage AI' -Real Time Face Recognition and Classroom Attendance Monitoring using Deep Learning.Group project done in B.Tech Second Year 4th Semester(Mar 2023 - Jun 2023)
 ## Description
 Proposal of an automated student attendance system based on face recognition. In our proposed approach,video framing is performed by activating the camera through a user-friendly interface.The face ROI is detected and segmented from the video frame by using Viola-Jones algorithm.
